@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adama19
 - 👀 I’m interested in Front end and back end development
-- 🌱 I’m currently learning Cloud computing
+- 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate
 - 📫 Here to reach me adamaniankoye11@gmail.com
 
